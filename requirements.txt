@@ -1,0 +1,6 @@
+flask
+flask_cors
+feedparser
+firebase_admin
+requests
+beautifulsoup4
